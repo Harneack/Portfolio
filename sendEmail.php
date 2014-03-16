@@ -4,8 +4,8 @@
 	$email = $_POST['email'];
 	$comments = $_POST['comments'];
 	
-	$site_owners_email = 'nick@moviesrus.co.uk'; // Replace this with your own email address
-	$site_owners_name = 'Harneack Budwal'; // replace with your name
+	$site_owners_email = 'john@'; // Replace this with your own email address
+	$site_owners_name = 'john doe'; // replace with your name
 	
 	if (strlen($name) < 2) {
 		$error['name'] = "Please enter your name";	
