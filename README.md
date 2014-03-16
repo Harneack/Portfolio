@@ -2,5 +2,12 @@ Portfolio
 =========
 
 Website Portfolio
+HTML5 Responsive Single Page Website
+Built Using MVC (codeigniter)
+Ajax Contact Form With Form Validation
+Plus Much More.....
 
-This is my website portfolio, please feel free to edit as you please.
+Download And Enjoy!!
+
+Please Leave Comment.
+
